@@ -1,5 +1,3 @@
-package NumberProject;
-
 public class NumberAnalysis {
 	private String number;
 	private Converter convert;
